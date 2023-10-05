@@ -1,5 +1,5 @@
 # 💫 About Me:
-Merhaba! Ben bir bilgisayar programcısıyım.Yazılım geliştirme alanında uzmanım ve çeşitli programlama dillerinde deneyim sahibiyim.<br>Çeşitli programlama dilleri arasında C, C#, HTML5, CSS3, BootStrap5, Microsoft SQL Server ve JavaScript gibi dillerde  bilgi sahibiyim.<br>Sürekli olarak yeni teknolojileri ve gelişmeleri takip ediyor, bilgimi güncel tutmaya önem veriyorum. <br>Takım çalışmasına uyumlu ve iletişim becerilerim güçlüdür. Bir projeyi başarıyla tamamlamak için ekibimle etkili bir şekilde işbirliği yaparım ve farklı disiplinlerden insanlarla birlikte çalışmaktan keyif alırım.
+Merhaba! Ben bir bilgisayar programcısıyım.Yazılım geliştirme alanında kendimi geliştiriyorum ve çeşitli programlama dillerinde deneyim sahibiyim.<br>Çeşitli programlama dilleri arasında C, C#, HTML5, CSS3, BootStrap5, Microsoft SQL Server ve JavaScript gibi dillerde  bilgi sahibiyim.<br>Sürekli olarak yeni teknolojileri ve gelişmeleri takip ediyor, bilgimi güncel tutmaya önem veriyorum. <br>Takım çalışmasına uyumlu ve iletişim becerilerim güçlüdür. Bir projeyi başarıyla tamamlamak için ekibimle etkili bir şekilde işbirliği yaparım.
 
 
 ## 🌐 Socials:
